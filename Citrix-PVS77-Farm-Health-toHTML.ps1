@@ -111,7 +111,7 @@ if ($PerformPVSTargetCheck -eq "yes") {
 #Header for Table 1 "Target Device Checks"
 $TargetfirstheaderName = "TargetDeviceName"
 $TargetheaderNames = "CollectionName", "Ping", "Retry", "vDisk_PVS", "vDisk_Version", "WriteCache", "PVSServer"
-$TargetheaderWidths = "4", "4", "4", "4", "2" , "4", "4"
+$TargetheaderWidths = "4", "4", "4", "4", "2", "4", "4"
 $Targettablewidth = 1200
 } 
 
